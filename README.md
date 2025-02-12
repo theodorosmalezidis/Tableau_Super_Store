@@ -21,7 +21,7 @@ I tried to keep it simple—basic charts, KPIs, and maps.
 
 - Sales
 
-!(Sales Dashboard)[images/Sales.png]
+![Sales Dashboard](images/Sales.png)
 
 - Insights
 

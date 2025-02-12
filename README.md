@@ -20,5 +20,6 @@ I tried to keep it simple—basic charts, KPIs, and maps.
 
 ![Sales Dashboard](images/Sales.png)
 
+- Insights
 
 ![Insights Dashboard](images/Insights.png)

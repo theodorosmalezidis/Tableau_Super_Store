@@ -14,12 +14,17 @@ I tried to keep it simple—basic charts, KPIs, and maps.
 - Standard Class is by far the most used ship mode..
 - Total Revenue, Profit, Quantity, and Customers increase almost every year compared to the previous one.
 
-## Dashboards
+## 📊 Dashboards
+
+🔗 [Tableau Link](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard)
+
 
 - Sales
 
-![Sales Dashboard](images/Sales.png)
+!(Sales Dashboard)[images/Sales.png]
 
 - Insights
 
 ![Insights Dashboard](images/Insights.png)
+
+

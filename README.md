@@ -19,11 +19,11 @@ I tried to keep it simple—basic charts, KPIs, and maps.
 🔗 [Tableau Link](https://public.tableau.com/app/profile/theodoros.malezidis7413/viz/SuperStoreDashboard_17390157300450/SalesDashboard)
 
 
-- Sales
+- Sales Dashboard
 
 ![Sales Dashboard](images/Sales.png)
 
-- Insights
+- Insights Dashboard
 
 ![Insights Dashboard](images/Insights.png)
 
